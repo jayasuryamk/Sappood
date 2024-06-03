@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/sappood.html"
+status = 200
